@@ -1,13 +1,13 @@
 임세현
 --
-컴퓨터 공학의 전반적인 분야에 모두 흥미를 가지고 있습니다. 특히 OS나 DB,네트워크 적인 지식을 탐구하는 것을 좋아합니다. 
+컴퓨터 공학의 전반적인 분야에 모두 흥미를 가지고 있습니다. 특히 OS나 DB,네트워크,머신러닝의 지식을 탐구하는 것을 좋아합니다. 
 
-현재는 백엔드 개발에 집중하여 공부중이며 틈틈히 분산시스템에 대한 서적을 읽으면서 지식을 늘리고 있습니다
+현재는 백엔드 개발에 집중하여 공부중이며 틈틈히 분산시스템에 대한 서적을 읽으면서 지식을 늘리고 있으며 추후에 백엔드 서버에 Iot서비스를 접목시키는 프로젝트를 하고 싶습니다.
 
 
 
-<div align=center><h1>📚 STACKS</h1></div>
-
+📚 STACKS
+--
 <div align=center> 
   <h2>Main Language</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -48,7 +48,7 @@
 <br>
 
 Previous project
--
+--
 야나와 플랫폼 (백엔드 개발 : DB설계 및 비즈니스 로직작성 ,인프라 구축)
 
 https://github.com/tpgus2603/Yanawa-flatform
@@ -61,8 +61,8 @@ https://github.com/tpgus2603/Systemprogramming/tree/master
 
 
 
-I am currently working on these projects
--
+Current project
+--
 
 https://github.com/Netronicsproject  (Spring-Boot)
   
