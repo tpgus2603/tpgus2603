@@ -51,9 +51,26 @@ CS분야 특히 운영체제,DB,네트워크와 관련된 공부를 하는 것�
 당장 프로젝트에 적용은 어렵지만 MSA,분산시스템에 흥미를 느끼고 여러 서적을 통해 공부중입니다
 </div>
 
+
+
+
+<Previous project>
+-
+야나와 플랫폼 (백엔드 개발 : DB설계 및 비즈니스 로직작성 ,인프라 구축)
+
+https://github.com/tpgus2603/Yanawa-flatform
+
+스마트 냉장고 시스템( 임베디드 개발: 센서 및 액츄에이터 작동 코드 , 라즈베리 파이 간 서버-클라이언트 tcp통신 구현) 
+
+https://github.com/tpgus2603/Systemprogramming/tree/master
+
+세줄스 앱( 백엔드 개발 : 
+
+
+
 I am currently working on these projects
 -
-<Back-End Developer> 
+
 https://github.com/Netronicsproject  (Spring-Boot)
   
 https://github.com/OverHereTeam (Spring-Boot)
