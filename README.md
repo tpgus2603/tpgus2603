@@ -41,14 +41,21 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
+<br>
+
 <div> 
-CS분야 특히 운영체제,DB,네트워크와 관련된 공부를 하는 것을 좋아합니다
+CS분야 특히 운영체제,DB,네트워크와 관련된 공부를 하는 것을 좋아합니다. 추후에 기회가 된다면 IOT와 백엔드를 접목하는 그런 프로젝트를 진행하고 싶습니다
 
 현재 주력 공부하는 분야는 백엔드 프레임워크인 스프링 부트를 기반으로 다양한 프로젝트에 CS지식을 녹여내는 것을 시도 중이며 
 
 당장 프로젝트에 적용은 어렵지만 MSA,분산시스템에 흥미를 느끼고 여러 서적을 통해 공부중입니다
 </div>
 
+I am currently working on these projects
+-
+<Back-End Developer> 
+https://github.com/Netronicsproject  (Spring-Boot)
+https://github.com/OverHereTeam (Spring-Boot)
   
 <h3> Boj</h3>
 
