@@ -42,7 +42,6 @@
 </div>
 
 <div>
-<h3>Boj</h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
 </div>
 
