@@ -42,5 +42,5 @@
 </div>
 <h3> Boj</h3>
 <div>
-[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
+[!Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
 
