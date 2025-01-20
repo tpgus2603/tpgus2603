@@ -41,6 +41,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
-
+<br>
+Boj
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)
