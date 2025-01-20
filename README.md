@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
+<h3> Boj</h3>
 <div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
-</div>
+[[Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
 
