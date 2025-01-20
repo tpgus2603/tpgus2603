@@ -58,7 +58,7 @@ https://github.com/Netronicsproject  (Spring-Boot)
   
 https://github.com/OverHereTeam (Spring-Boot)
   
-Boj<
+Boj
 -
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpgus2603)](https://solved.ac/tpgus2603/)  
 
