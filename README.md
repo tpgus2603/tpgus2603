@@ -54,19 +54,6 @@ Infra/CollaborationSkill
 <div>
 
 
-
-Previous project
---
-**야나와 플랫폼 (백엔드 개발 : DB설계 및 비즈니스 로직작성 ,인프라 구축)**
-
-사용자가 등록한 시간표를 기반으로 모임 생성 후 일정이 맞는 친구들에게 자동으로 초대 및 푸쉬 알림을 보내주는 웹서비스 
-
-채팅방을 형성하여 카카오톡과 유사한 채팅기능      
-
-ㅗ <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-</div>
-
 Sub Skills
 --
 <div>
