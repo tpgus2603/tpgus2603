@@ -84,6 +84,7 @@ GPT API를 기반으로 크롤링한 뉴스 데이터를 요역하여 제공하�
 https://github.com/tpgus2603/Sejules_backend
 
 **AI프로젝트**
+
 머신러닝 모델을 활용하여 NBA선수 스탯 기반 연봉 예측 모델 구현 및 성능평가(+데이터 크롤링)
 
 https://github.com/tpgus2603/ML_nba
