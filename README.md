@@ -80,6 +80,7 @@ https://github.com/tpgus2603/Systemprogramming/tree/master
 **세줄스 앱( 백엔드 개발 : 백엔드 서버 및 머신러닝, 인프라 구축)** 
 
 GPT API를 기반으로 크롤링한 뉴스 데이터를 요역하여 제공하는 앱입니다. GPT API를 사용하면 비용이 청구되고 수익의 불확실성으로 인해 앱스토어 출시는 보류중입니다
+
 https://github.com/tpgus2603/Sejules_backend
 
 Current project
