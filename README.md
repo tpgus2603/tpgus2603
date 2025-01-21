@@ -24,6 +24,8 @@ Sub Skills
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react.js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
 BackEnd
@@ -38,6 +40,7 @@ BackEnd
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
+
 
 Infra/CollaborationSkill
 --
