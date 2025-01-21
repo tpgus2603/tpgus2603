@@ -85,11 +85,11 @@ https://github.com/tpgus2603/Sejules_backend
 
 **AI프로젝트**
 
-머신러닝 모델을 활용하여 NBA선수 스탯 기반 연봉 예측 모델 구현 및 성능평가(+데이터 크롤링)
+**NBA선수 연봉 예측 모델:** :머신러닝 모델을 활용하여 NBA선수 스탯 기반 연봉 예측 모델 구현 및 성능평가(+데이터 크롤링)
 
 https://github.com/tpgus2603/ML_nba
 
-트랜스포머 모델을 통해 멀티모달 데이터를 처리하는 이미지 캡셔닝 모델 구현 및 병렬 GPU컴퓨팅을 통한 최적화 
+**이미지 캡셔닝 모델 구현 및 최적화**: 트랜스포머 모델을 통해 멀티모달 데이터를 처리하는 이미지 캡셔닝 모델 구현 및 병렬 GPU컴퓨팅을 통한 최적화 
 
 https://github.com/tpgus2603/ImageCaptioning/tree/main
 
